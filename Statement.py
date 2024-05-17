@@ -148,11 +148,11 @@ with tab0:
         unsafe_allow_html=True)
     image1 = Image.open('statement.jpg')
     col1_2.write('#### :green[ ]')
-    col1_2.write('#### :green[ ]')
-    col1_2.write('#### :green[ ]')
-    col1_2.write('#### :green[ ]')
-    col1_2.write('#### :green[ ]')
-    col1_2.write('#### :green[ ]')
+    # col1_2.write('#### :green[ ]')
+    # col1_2.write('#### :green[ ]')
+    # col1_2.write('#### :green[ ]')
+    # col1_2.write('#### :green[ ]')
+    # col1_2.write('#### :green[ ]')
     col1_2.image(image1, caption=None, width=600, use_column_width=True, clamp=False, channels='RGB')
 
 
