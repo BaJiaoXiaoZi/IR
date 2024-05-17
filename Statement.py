@@ -147,7 +147,7 @@ with tab0:
         "<h5 style='text-align: left; black: gray;'>🎆Please be assured that this app does not store any of your inputs, allowing you to use it with confidence.</h5>",
         unsafe_allow_html=True)
     image1 = Image.open('statement.jpg')
-    col1_2.write('#### :green[ ]')
+    col1_2.write('##### :green[ ]')
     # col1_2.write('#### :green[ ]')
     # col1_2.write('#### :green[ ]')
     # col1_2.write('#### :green[ ]')
